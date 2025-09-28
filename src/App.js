@@ -7,7 +7,7 @@ function App() {
       <header className="hero-section">
         <nav className="navbar">
           <div className="nav-brand">
-            <h1>Casa Mendoza Cleaning</h1>
+            <h1>🧽 Casa Mendoza Cleaning</h1>
           </div>
           <div className="nav-links">
             <a href="#services">Services</a>
