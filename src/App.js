@@ -81,11 +81,12 @@ function App() {
           <div className="contact-info">
             <div className="contact-item">
               <h3>Call Us</h3>
-              <p>(XXX) XXX-XXXX</p>
+              <p><a href="tel:+12105014276">(210) 501-4276</a></p>
+              <p><a href="tel:+12103248893">(210) 324-8893</a></p>
             </div>
             <div className="contact-item">
               <h3>Email Us</h3>
-              <p>"email address"</p>
+              <p><a href="mailto:casamendozacleaning@yahoo.com">casamendozacleaning@yahoo.com</a></p>
             </div>
             <div className="contact-item">
               <h3>Service Area</h3>
